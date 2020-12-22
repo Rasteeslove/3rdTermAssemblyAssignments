@@ -1,0 +1,3 @@
+﻿  ConwaysGameOfLife.cpp
+C:\Users\krast\Desktop\ConwaysGameOfLife\ConwaysGameOfLife\ConwaysGameOfLife.cpp(334,23): warning C4018: '<': signed/unsigned mismatch
+  ConwaysGameOfLife.vcxproj -> C:\Users\krast\Desktop\ConwaysGameOfLife\Debug\ConwaysGameOfLife.exe
